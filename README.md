@@ -9,7 +9,7 @@ Do you work at Cineplex? Are you tired of clicking a bunch of links just to see 
 5. Add ChromeDriver to your PATH
 6. Open or restart the Windows Command Prompt and run 'chomedriver.exe -v' to verify ChromeDriver was installed and added to your PATH correctly
 7. Run 'pip install selenium' in the Command Prompt
-Everything required should now be installed!
+8. Everything required should now be installed!
 
 ## How to use Cineplex-Login
 - Replace <USERNAME> and <PASSWORD> in credentials.txt with your Ultipro username and password
