@@ -8,7 +8,7 @@ Do you work at Cineplex? Are you tired of clicking a bunch of links just to see 
 4. Install ChromeDriver at: https://chromedriver.chromium.org/downloads
 5. Add ChromeDriver to your PATH
 6. Open or restart the Windows Command Prompt and run 'chomedriver.exe -v' to verify ChromeDriver was installed and added to your PATH correctly
-7. Run 'pip install selenium' in the Command Prompt
+7. Run `pip install selenium` in the Command Prompt
 8. Everything required should now be installed!
 
 ## How to use Cineplex-Login
