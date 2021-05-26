@@ -12,7 +12,7 @@ Do you work at Cineplex? Are you tired of clicking a bunch of links just to see 
 8. Everything required should now be installed!
 
 ## How to use Cineplex-Login
-- Replace '<USERNAME>' and '<PASSWORD>' in credentials.txt with your Ultipro username and password
+- Replace USERNAME and PASSWORD in credentials.txt with your Ultipro username and password
 	- Remember to update this the next time Ultipro makes you change your password for the 39292469th time
 - Double click on Cineplex-Login.py
 	- Google Chrome should open and take you directly to your Workbrain schedule
